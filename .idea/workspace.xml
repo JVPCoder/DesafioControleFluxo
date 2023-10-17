@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1dda1002-c7ed-45b0-9d1f-5ed3d10baf18" name="Changes" comment="" />
+    <list default="true" id="1dda1002-c7ed-45b0-9d1f-5ed3d10baf18" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/bin/desafio/Contador.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/desafio/Contador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio/Contador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/Contador.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +13,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2WtXxvFvroYuQjYNQcWdGuOy8Bz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "A:/Coding/Codes/Workspace Java/DesafioControleFluxo"
+    "last_opened_file_path": "A:/Coding/projetos/lab-padroes-projeto-spring-2023"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
